@@ -1,16 +1,31 @@
-## Hi there 👋
+Hi, I am Gonuguntla Bhavana
+  Final-Year B.Tech AI Student
+## About Me
+I am passionate about Software Development, SQL, and Machine Learning. I enjoy learning new technologies and building projects that solve real-world problems.
+## Technical Skills
+- Python
+- Java
+- SQL
+- HTML
+- CSS
 
-<!--
-**gonuguntlabhavana/gonuguntlabhavana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Core Subjects
+- DBMS
+- Data Structures and Algorithms
+- Object-Oriented Programming
 
-Here are some ideas to get you started:
+## Projects
+- Personal Portfolio Website
+- Python Programs
+- Java Programs
+- SQL Practice
+- Machine Learning Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+- Placement Preparation
+- SQL and DBMS
+- Data Structures and Algorithms
+- Software Development
+
+## Career Goal
+To become a Software Developer and contribute to innovative solutions through technology.
